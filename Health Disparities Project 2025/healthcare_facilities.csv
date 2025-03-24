@@ -1,0 +1,59 @@
+FacilityID,FacilityName,FacilityType,ZIPCode,Address,HasEmergencyServices,AcceptsMediCal,AcceptsMedicare
+2,Cedars-Sinai Medical Center,Hospital,90048,8700 Beverly Blvd,True,True,True
+3,UCLA Medical Center,Hospital,90024,10833 Le Conte Ave,True,True,True
+4,Providence Saint John's Health Center,Hospital,90404,2121 Santa Monica Blvd,True,True,True
+5,Kaiser Permanente Los Angeles,Hospital,90027,4867 Sunset Blvd,True,True,True
+6,Children's Hospital Los Angeles,Hospital,90027,4650 Sunset Blvd,True,True,True
+7,USC Keck Hospital,Hospital,90033,1500 San Pablo St,True,True,True
+8,Good Samaritan Hospital,Hospital,90017,1225 Wilshire Blvd,True,False,True
+9,California Hospital Medical Center,Hospital,90015,1401 S Grand Ave,True,True,True
+10,Harbor-UCLA Medical Center,Hospital,90502,1000 W Carson St,True,True,True
+11,LAC+USC Medical Center,Hospital,90033,2051 Marengo St,True,True,True
+12,Venice Family Clinic,Clinic,90291,604 Rose Ave,False,True,True
+13,APLA Health Center,Clinic,90005,3741 S La Brea Ave,False,True,True
+14,Saban Community Clinic,Clinic,90046,8405 Beverly Blvd,False,True,True
+15,St. John's Well Child & Family Center,Clinic,90011,808 W 58th St,False,True,True
+16,Westside Family Health Center,Clinic,90405,1711 Ocean Park Blvd,False,True,True
+17,Chinatown Service Center,Clinic,90012,767 N Hill St,False,True,True
+18,QueensCare Health Centers,Clinic,90004,4618 Fountain Ave,False,True,True
+19,Eisner Health,Clinic,90015,1245 W 7th St,False,True,True
+20,South Bay Family Healthcare,Clinic,90501,742 W Gardena Blvd,False,True,True
+21,Watts Healthcare Corporation,Clinic,90002,10300 Compton Ave,False,True,True
+22,Florence-Graham Community Health Center,Community Health Center,90001,1234 E Florence Ave,False,True,True
+23,Watts Community Health Center,Community Health Center,90002,2345 S Central Ave,False,True,True
+24,South LA Community Center,Community Health Center,90003,3456 S Vermont Ave,False,True,True
+25,Koreatown Community Health Center,Community Health Center,90004,4567 W Olympic Blvd,False,True,True
+26,Westlake Community Health Center,Community Health Center,90005,5678 Wilshire Blvd,False,True,True
+27,Pico-Union Health Center,Community Health Center,90006,6789 W Pico Blvd,False,True,True
+28,University Park Community Center,Community Health Center,90007,7890 S Figueroa St,False,True,True
+29,Baldwin Hills Health Center,Community Health Center,90008,8901 Crenshaw Blvd,False,True,True
+30,Hancock Park Medical Group,Clinic,90010,9012 W 3rd St,False,False,True
+31,South Central Health Clinic,Community Health Center,90011,1234 E Vernon Ave,False,True,True
+32,Westwood Medical Plaza,Clinic,90024,10921 Wilshire Blvd,False,False,True
+33,West LA Family Health,Clinic,90025,2317 Sawtelle Blvd,False,True,True
+34,Echo Park Community Clinic,Community Health Center,90026,1811 Sunset Blvd,False,True,True
+35,Los Feliz Primary Care,Clinic,90027,4323 Los Feliz Blvd,False,True,True
+36,Westchester Family Center,Community Health Center,90045,8540 Lincoln Blvd,False,True,True
+37,Hollywood Hills Medical Group,Clinic,90046,7317 Sunset Blvd,False,False,True
+38,Beverly Hills Medical Center,Clinic,90210,414 N Camden Dr,False,False,True
+39,Beverly Hills Community Clinic,Clinic,90211,8635 W 3rd St,False,False,True
+40,Culver City Family Health,Clinic,90230,3831 Hughes Ave,False,True,True
+41,Culver City Community Center,Community Health Center,90232,4343 Duquesne Ave,False,True,True
+42,Venice Beach Medical Group,Clinic,90291,1808 Lincoln Blvd,False,False,True
+43,Marina Medical Center,Clinic,90292,4560 Admiralty Way,False,False,True
+44,Inglewood Community Health Center,Community Health Center,90301,323 N Prairie Ave,False,True,True
+45,Inglewood Family Medicine,Clinic,90302,445 E Manchester Blvd,False,True,True
+46,Santa Monica Medical Center,Clinic,90402,1245 15th St,False,False,True
+47,Santa Monica Community Clinic,Community Health Center,90403,2509 Pico Blvd,False,True,True
+48,Ocean Park Health Center,Community Health Center,90404,2121 Cloverfield Blvd,False,True,True
+49,Santa Monica Family Health,Clinic,90405,2901 Ocean Park Blvd,False,True,True
+50,Torrance Memorial Medical Center,Hospital,90501,3330 Lomita Blvd,True,True,True
+51,Torrance Health Center,Community Health Center,90502,2201 W Carson St,False,True,True
+52,San Pedro Peninsula Hospital,Hospital,90731,1300 W 7th St,True,True,True
+53,San Pedro Community Clinic,Clinic,90732,731 S Beacon St,False,True,True
+54,Wilmington Community Health Center,Community Health Center,90744,1009 N Avalon Blvd,False,True,True
+55,Carson Family Health Center,Community Health Center,90745,21825 S Avalon Blvd,False,True,True
+56,Olive View-UCLA Medical Center,Hospital,91342,14445 Olive View Dr,True,True,True
+57,Providence Tarzana Medical Center,Hospital,91356,18321 Clark St,True,False,True
+58,Woodland Hills Kaiser,Hospital,91364,5601 De Soto Ave,True,False,True
+59,Valley Presbyterian Hospital,Hospital,91405,15107 Vanowen St,True,True,True
